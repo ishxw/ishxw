@@ -8,5 +8,6 @@
 ## ✉️ 联系我 | Contact
 > - QQ: 3255323416
 > - Email: ishxw@outlook.com
-> - Telegram: [@ISHXW](http://t.me/ishxw)
 > - bilibili: <a style="color: pink;" href="https://space.bilibili.com/1140868302">1140868302</a>
+> - Telegram: [@ISHXW](http://t.me/ishxw)
+
