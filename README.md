@@ -1,10 +1,10 @@
 <div align="center">
- <img src="https://github.com/ishxw/ishxw/github-contribution-grid-snake.svg" />
+ <img src="https://github.com/ishxw/ishxw/boom/github-contribution-grid-snake.svg" />
  <table>
    <tr>
-     <td rowspan=2> <img src="https://github.com/ishxw/ishxw/blob/main/github-metrics.svg" /> </td>
+     <td rowspan=2> <img src="https://github.com/ishxw/ishxw/boom/github-metrics.svg" /> </td>
      <td> 
-	     <img src="https://github.com/ishxw/ishxw/blob/main/metrics.plugin.isocalendar.fullyear.svg" /> 
+	     <img src="https://github.com/ishxw/ishxw/boom/metrics.plugin.isocalendar.fullyear.svg" /> 
      </td>
    </tr>
 	<tr>
