@@ -7,6 +7,6 @@
 ## 🔗 博客 | Blog >  [戳我戳我](https://blog.ishxw.com/)
 ## ✉️ 联系我 | Contact
 > - QQ: 3255323416
-> - Telegram: [@ISHXW](http://t.me/ishxw)
-> - bilibili: <a style="color: pink;" href="https://space.bilibili.com/1140868302">哔哩哔哩</a>
 > - Email: ishxw@outlook.com
+> - Telegram: [@ISHXW](http://t.me/ishxw)
+> - bilibili: <a style="color: pink;" href="https://space.bilibili.com/1140868302">1140868302</a>
