@@ -1,16 +1,5 @@
 <div align="center">
  <img src="https://github.com/ishxw/ishxw/blob/boom/github-contribution-grid-snake.svg" />
- <table>
-   <tr>
-     <td rowspan=2> <img src="https://github.com/ishxw/ishxw/blob/boom/github-metrics.svg" /> </td>
-     <td> 
-	     <img src="https://github.com/ishxw/ishxw/blob/boom/metrics.plugin.isocalendar.fullyear.svg" /> 
-     </td>
-   </tr>
-	<tr>
-		<td><img src="https://github.com/issuimo/issuimo/blob/main/metrics.plugin.languages.svg" /></td> 
-	</tr>
- </table>
 </div>
 <hr/>
 
