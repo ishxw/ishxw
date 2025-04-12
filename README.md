@@ -3,19 +3,12 @@
 </div>
 <hr/>
 
-## Hi there 👋
-
-<!--
-**ishxw/ishxw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🧭 主页 | Home Page
+> #### [戳我戳我](https://ishxw.com/)
+#### 🔗 博客 | Blog
+> #### [戳我戳我](https://blog.ishxw.com/)
+#### 📧 联系我 | Contact me
+> - QQ: 3255323416
+> - Telegram: @ISHXW
+> - bilibili: <a style="color: pink;" href="https://space.bilibili.com/1140868302">bilibili</a>
+> - Email: ishxw@outlook.com
