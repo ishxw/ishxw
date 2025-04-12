@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/ishxw/ishxw/blob/boom/github-contribution-grid-snake-dark.svg" />
+ <img src="https://github.com/ishxw/ishxw/blob/boom/github-contribution-grid-snake.svg" />
  <table>
    <tr>
      <td rowspan=2> <img src="https://github.com/ishxw/ishxw/blob/boom/github-metrics.svg" /> </td>
