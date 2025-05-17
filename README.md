@@ -3,8 +3,8 @@
 </div>
 <hr/>
 
-## 🏠 主页 | Home >  [戳我戳我](https://ishxw.com/)
-## 🔗 博客 | Blog >  [戳我戳我](https://blog.ishxw.com/)
+## 🏠 主页 | Home >  [戳我戳我](http://ishxw.com/)
+## 🔗 博客 | Blog >  [戳我戳我](http://blog.ishxw.com/)
 ## ✉️ 联系我 | Contact
 > - QQ: 3255323416
 > - Email: ishxw@outlook.com
