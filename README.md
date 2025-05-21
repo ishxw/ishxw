@@ -13,9 +13,5 @@
   <a href="https://space.bilibili.com/1140868302"><img src="https://img.shields.io/badge/bilibili-B站-ff69b4"></a>&emsp;
   <a href="https://steamcommunity.com/id/ishxw/"><img src="https://img.shields.io/badge/steam-Steam-ff69b4"></a>&emsp;
  
-## ✉️ 联系我 | Contact
-> - QQ: 3255323416
-> - Email: ishxw@outlook.com
-> - bilibili: <a style="color: pink;" href="https://space.bilibili.com/1140868302">1140868302</a>
-> - Telegram: [@ISHXW](http://t.me/ishxw)
+## ✉️ Email Me | Contact  > - Email: ishxw@outlook.com
 
